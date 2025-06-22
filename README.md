@@ -54,10 +54,9 @@ Edit
 String url = "jdbc:mysql://localhost:3306/library_db";
 String username = "root";
 String password = "your_password";
+
+
 📦 Folder Structure
-css
-Copy
-Edit
 LibraryManagementSystem/
 │
 ├── src/
@@ -86,6 +85,13 @@ Any Java IDE
 
 🖼️ Screenshots
 all information and screen shots are available in ...Detailed Information about project...folder
+![image](https://github.com/user-attachments/assets/912b7125-52ea-4562-a453-d18b77998661)
+![image](https://github.com/user-attachments/assets/5fa0bfef-0b15-43ba-81ac-d4f8f44ae4f0)
+![image](https://github.com/user-attachments/assets/59b59226-58f2-41dc-8102-458cda10469c)
+
+
+
+
 
 
 
