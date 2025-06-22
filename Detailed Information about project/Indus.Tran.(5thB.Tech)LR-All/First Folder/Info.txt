@@ -1,0 +1,16 @@
+
+1.DOWNLOAD THE ECLIPSE IDE FROM THIS GIVEN LINK AS PER YOUR SYSTEM REQUIEMENT 
+
+
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2024-09/R/eclipse-inst-jre-win64.exe
+
+2.Then install the wampp server(database) for data storage
+     user name: root
+     password:ankushlagwal123
+
+3. then run the code files that are available in LibraryMangementSystem Folder 
+
+4.  For more info you can get the help from PPT, Synopsis and Project Folder.
+
+
+
