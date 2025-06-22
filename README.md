@@ -85,9 +85,11 @@ Any Java IDE
 
 🖼️ Screenshots
 all information and screen shots are available in ...Detailed Information about project...folder
-![image](https://github.com/user-attachments/assets/912b7125-52ea-4562-a453-d18b77998661)
-![image](https://github.com/user-attachments/assets/5fa0bfef-0b15-43ba-81ac-d4f8f44ae4f0)
-![image](https://github.com/user-attachments/assets/59b59226-58f2-41dc-8102-458cda10469c)
+![image](https://github.com/user-attachments/assets/66169e33-ff8e-46a7-b059-440e3dfacb11)
+![image](https://github.com/user-attachments/assets/6c3d1ef1-59b0-4d97-88d6-e6449961a01a)
+![image](https://github.com/user-attachments/assets/4333ed19-dfa1-425c-bf7a-6ea56fb5a4e8)
+
+
 
 
 
